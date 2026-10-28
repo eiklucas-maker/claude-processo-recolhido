@@ -1,0 +1,6 @@
+{
+  "name": "processo-recolhido",
+  "version": "0.1.0",
+  "description": "Recolhe o processo de cada resposta (texto intermediário e ferramentas) numa linha com um botão ▼ para abrir",
+  "types": "./types/index.d.ts"
+}

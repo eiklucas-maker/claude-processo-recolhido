@@ -1,0 +1,5 @@
+{
+  "name": "eiklucas-mods",
+  "owner": { "name": "eiklucas-maker" },
+  "plugins": [{ "name": "processo-recolhido", "source": "./" }]
+}
